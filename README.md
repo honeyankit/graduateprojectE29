@@ -2,14 +2,10 @@
 Movies Classification based on Plot summaries
 
 # Note:
-Due to size constraint, I was not able to add the below two raw files here:
-a) data/plot.list
-b) data/genre.list
+1. Due to size constraint, I was not able to add the two raw files (data/plot.list and data/genre.list ) here.
 
-I have already extracted the data and saved into the below two files which are uploaded here:
-a) moviesGenre.csv
-b) moviesPlot.csv
+2. I have already extracted the data and saved into the two csv files (moviesGenre.csv and moviesPlot.csv ) 
+   which are uploaded here.
 
-Anyone interested in executing this notebook, please directly start with
-3rd step which is loading csv files to dataframes.
+3. Anyone interested in executing this notebook, directly start with 3rd step which is loading csv files to dataframes.
 
